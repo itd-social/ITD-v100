@@ -16,10 +16,6 @@ git clone https://github.com/itdPlus/ITD-v100
 
 ![](refreshToken.jpeg)
 ### 3\. **Открой config.js и вставь токен:**
-module.exports = {\
-`    `REFRESH\_TOKEN: 'сюда\_вставь\_свой\_токен',\
-`    `PORT: 3000,\
-};
 ### 4\. Запусти прокси
 node proxy.js
 
