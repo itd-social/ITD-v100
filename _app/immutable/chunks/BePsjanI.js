@@ -1,0 +1,1 @@
+import{a,A as t}from"./BmhDMaeX.js";const s={async createReport(e){const r=await a.post(t.reports.create,e);return r.error?{error:r.error.message}:{data:r.data?.data}}};export{s as r};

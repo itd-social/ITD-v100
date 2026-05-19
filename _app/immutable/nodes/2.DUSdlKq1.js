@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import{i as t}from"../chunks/CQsjmgOg.js";import{p as a,o as p,a as r}from"../chunks/BR1y4NP-.js";import{g as o}from"../chunks/CsakULmV.js";function c(i,e){a(e,!1),p(()=>{o("/feed",{replaceState:!0})}),o("/feed",{replaceState:!0}),t(),r()}export{c as component};
